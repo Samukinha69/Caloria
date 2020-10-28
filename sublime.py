@@ -2,7 +2,7 @@ import sys
 
 import sublime_api
 
-
+//aids
 class _LogWriter:
     def flush(self):
         pass
